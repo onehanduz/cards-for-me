@@ -77,35 +77,50 @@ document.getElementById("resultSort").addEventListener("click", function (e) {
   sortResults(resultarr);
 });
 
-for (let i = 2; i < 10; i++) {
-  let x = new Image();
-  x.src = "./cards/" + i + "♠️.svg";
-}
-for (let i = 2; i < 10; i++) {
-  let x = new Image();
-  x.src = "./cards/" + i + "♥️.svg";
-}
-for (let i = 2; i < 10; i++) {
-  let x = new Image();
-  x.src = "./cards/" + i + "♣️.svg";
-}
-for (let i = 2; i < 10; i++) {
-  let x = new Image();
-  x.src = "./cards/" + i + "♦️.svg";
-}
-new Image().src = "./cards/A♣️.svg";
-new Image().src = "./cards/A♠️.svg";
-new Image().src = "./cards/J♣️.svg";
-new Image().src = "./cards/Q♣️.svg";
-new Image().src = "./cards/K♣️.svg";
+new Image().src = "./cards/2♠️.svg";
+new Image().src = "./cards/3♠️.svg";
+new Image().src = "./cards/4♠️.svg";
+new Image().src = "./cards/5♠️.svg";
+new Image().src = "./cards/6♠️.svg";
+new Image().src = "./cards/7♠️.svg";
+new Image().src = "./cards/8♠️.svg";
+new Image().src = "./cards/9♠️.svg";
 new Image().src = "./cards/J♠️.svg";
 new Image().src = "./cards/K♠️.svg";
 new Image().src = "./cards/Q♠️.svg";
+new Image().src = "./cards/A♣️.svg";
+new Image().src = "./cards/2♣️.svg";
+new Image().src = "./cards/3♣️.svg";
+new Image().src = "./cards/4♣️.svg";
+new Image().src = "./cards/5♣️.svg";
+new Image().src = "./cards/6♣️.svg";
+new Image().src = "./cards/7♣️.svg";
+new Image().src = "./cards/8♣️.svg";
+new Image().src = "./cards/9♣️.svg";
+new Image().src = "./cards/J♣️.svg";
+new Image().src = "./cards/Q♣️.svg";
+new Image().src = "./cards/K♣️.svg";
 new Image().src = "./cards/A♥️.svg";
+new Image().src = "./cards/2♥️.svg";
+new Image().src = "./cards/3♥️.svg";
+new Image().src = "./cards/4♥️.svg";
+new Image().src = "./cards/5♥️.svg";
+new Image().src = "./cards/6♥️.svg";
+new Image().src = "./cards/7♥️.svg";
+new Image().src = "./cards/8♥️.svg";
+new Image().src = "./cards/9♥️.svg";
 new Image().src = "./cards/J♥️.svg";
 new Image().src = "./cards/Q♥️.svg";
 new Image().src = "./cards/K♥️.svg";
 new Image().src = "./cards/A♦️.svg";
+new Image().src = "./cards/2♦️.svg";
+new Image().src = "./cards/3♦️.svg";
+new Image().src = "./cards/4♦️.svg";
+new Image().src = "./cards/5♦️.svg";
+new Image().src = "./cards/6♦️.svg";
+new Image().src = "./cards/7♦️.svg";
+new Image().src = "./cards/8♦️.svg";
+new Image().src = "./cards/9♦️.svg";
 new Image().src = "./cards/J♦️.svg";
 new Image().src = "./cards/Q♦️.svg";
 new Image().src = "./cards/K♦️.svg";
